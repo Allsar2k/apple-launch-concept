@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="t d">
+  <title id="t">Vision Air target personas</title>
+  <desc id="d">Three persona cards. Primary: Maya, 20, the dorm-room creator, who wants a studio's worth of screens without a studio. Secondary: Jordan, 22, the builder, who wants to spread out code, docs and games without three monitors. Tertiary: Priya, 24, the first-jobber, who wants to turn a small apartment into a workspace and a cinema.</desc>
+  <defs>
+    <radialGradient id="g" cx="0.5" cy="0" r="0.9"><stop offset="0" stop-color="#B8A2FF" stop-opacity="0.45"/><stop offset="1" stop-color="#B8A2FF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="560" fill="#F4F5F8"/>
+  <rect width="1200" height="560" fill="url(#g)"/>
+  <g font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">
+    <g transform="translate(40 60)">
+      <rect width="360" height="440" rx="20" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2.5" fill="#4338CA">PRIMARY</text>
+      <circle cx="68" cy="118" r="40" fill="#F4F5F8" stroke="#4338CA" stroke-width="3"/>
+      <text x="68" y="131" text-anchor="middle" font-size="36" font-weight="600" fill="#4338CA">M</text>
+      <text x="28" y="204" font-size="32" font-weight="600" fill="#101218">Maya, 20</text>
+      <text x="28" y="236" font-size="19" fill="#4A505E">The Dorm-Room Creator</text>
+      <line x1="28" y1="266" x2="332" y2="266" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="302" font-size="12" font-weight="700" letter-spacing="2" fill="#4A505E">JOB TO BE DONE</text>
+      <text x="28" y="332" font-size="19" fill="#101218">“Give me a studio’s worth</text>
+      <text x="28" y="358" font-size="19" fill="#101218">of screens without a studio.”</text>
+      <text x="28" y="404" font-size="15" fill="#4A505E">TikTok · Twitch · YouTube</text>
+    </g>
+    <g transform="translate(420 60)">
+      <rect width="360" height="440" rx="20" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2.5" fill="#4338CA">SECONDARY</text>
+      <circle cx="68" cy="118" r="40" fill="#F4F5F8" stroke="#4338CA" stroke-width="3"/>
+      <text x="68" y="131" text-anchor="middle" font-size="36" font-weight="600" fill="#4338CA">J</text>
+      <text x="28" y="204" font-size="32" font-weight="600" fill="#101218">Jordan, 22</text>
+      <text x="28" y="236" font-size="19" fill="#4A505E">The Builder</text>
+      <line x1="28" y1="266" x2="332" y2="266" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="302" font-size="12" font-weight="700" letter-spacing="2" fill="#4A505E">JOB TO BE DONE</text>
+      <text x="28" y="332" font-size="19" fill="#101218">“Let me spread out code, docs</text>
+      <text x="28" y="358" font-size="19" fill="#101218">and a game without three monitors.”</text>
+      <text x="28" y="404" font-size="15" fill="#4A505E">Reddit · YouTube · Discord</text>
+    </g>
+    <g transform="translate(800 60)">
+      <rect width="360" height="440" rx="20" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="48" font-size="14" font-weight="700" letter-spacing="2.5" fill="#4338CA">TERTIARY</text>
+      <circle cx="68" cy="118" r="40" fill="#F4F5F8" stroke="#4338CA" stroke-width="3"/>
+      <text x="68" y="131" text-anchor="middle" font-size="36" font-weight="600" fill="#4338CA">P</text>
+      <text x="28" y="204" font-size="32" font-weight="600" fill="#101218">Priya, 24</text>
+      <text x="28" y="236" font-size="19" fill="#4A505E">The First-Jobber</text>
+      <line x1="28" y1="266" x2="332" y2="266" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="302" font-size="12" font-weight="700" letter-spacing="2" fill="#4A505E">JOB TO BE DONE</text>
+      <text x="28" y="332" font-size="19" fill="#101218">“Turn my small apartment into</text>
+      <text x="28" y="358" font-size="19" fill="#101218">a workspace, and a cinema.”</text>
+      <text x="28" y="404" font-size="15" fill="#4A505E">LinkedIn · Instagram · Stores</text>
+    </g>
+  </g>
+</svg>

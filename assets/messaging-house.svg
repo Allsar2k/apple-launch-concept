@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="t d">
+  <title id="t">Vision Air messaging house</title>
+  <desc id="d">The roof holds the umbrella message, "Room to think. Wherever you are." Three pillars hold it up: Light, under 400 grams for a whole study session; Limitless screens, Mac Virtual Display and sharp text; Made for making, Final Cut Pro, spatial video and creator tools. The foundation lists the proof: about 40 percent lighter than Vision Pro, 1,499 dollars or monthly, and works with the Mac and iPhone you own.</desc>
+  <rect width="1200" height="640" fill="#F4F5F8"/>
+  <g font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">
+    <path d="M600 30 L1120 190 L80 190 Z" fill="#4338CA"/>
+    <text x="600" y="118" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="3" fill="#FFFFFF">UMBRELLA MESSAGE</text>
+    <text x="600" y="164" text-anchor="middle" font-size="38" font-weight="600" fill="#FFFFFF">Room to think. Wherever you are.</text>
+    <g transform="translate(110 220)">
+      <rect width="300" height="250" rx="16" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="56" font-size="40" font-weight="600" fill="#4338CA">01</text>
+      <text x="28" y="110" font-size="28" font-weight="600" fill="#101218">Light</text>
+      <text x="28" y="160" font-size="19" fill="#4A505E">Under 400 g. Wear it</text>
+      <text x="28" y="186" font-size="19" fill="#4A505E">through a study session.</text>
+    </g>
+    <g transform="translate(450 220)">
+      <rect width="300" height="250" rx="16" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="56" font-size="40" font-weight="600" fill="#4338CA">02</text>
+      <text x="28" y="110" font-size="28" font-weight="600" fill="#101218">Limitless screens</text>
+      <text x="28" y="160" font-size="19" fill="#4A505E">Mac Virtual Display and</text>
+      <text x="28" y="186" font-size="19" fill="#4A505E">text sharp enough to code.</text>
+    </g>
+    <g transform="translate(790 220)">
+      <rect width="300" height="250" rx="16" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="28" y="56" font-size="40" font-weight="600" fill="#4338CA">03</text>
+      <text x="28" y="110" font-size="28" font-weight="600" fill="#101218">Made for making</text>
+      <text x="28" y="160" font-size="19" fill="#4A505E">Final Cut Pro, spatial</text>
+      <text x="28" y="186" font-size="19" fill="#4A505E">video and creator tools.</text>
+    </g>
+    <rect x="80" y="500" width="1040" height="100" rx="16" fill="#FFFFFF" stroke="#4338CA" stroke-width="2"/>
+    <text x="110" y="540" font-size="13" font-weight="700" letter-spacing="2.5" fill="#4338CA">PROOF</text>
+    <text x="110" y="576" font-size="20" fill="#101218">About 40% lighter than Vision Pro  ·  $1,499 or monthly  ·  Works with the Mac and iPhone you own</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="t d">
+  <title id="t">Vision Air go-to-market timeline</title>
+  <desc id="d">Four phases from June to December. Phase 1, Reveal, in June at WWDC with developer kits. Phase 2, Seed, in July and August with 50 creator partners and campus ambassadors at 25 universities. Phase 3, Launch, in September with Back to School pricing and 20-minute store demos. Phase 4, Sustain, from October to December with app spotlights and holiday gifting.</desc>
+  <rect width="1200" height="480" fill="#F4F5F8"/>
+  <g font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="70" font-size="14" font-weight="700" letter-spacing="3" fill="#4338CA">GO-TO-MARKET</text>
+    <text x="60" y="112" font-size="34" font-weight="600" fill="#101218">From reveal to habit in seven months</text>
+    <line x1="60" y1="200" x2="1140" y2="200" stroke="#DDE0E8" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(60 0)">
+      <circle cx="22" cy="200" r="16" fill="#4338CA"/>
+      <text x="22" y="206" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">1</text>
+      <text x="0" y="160" font-size="15" font-weight="700" letter-spacing="2" fill="#4A505E">JUN</text>
+      <rect x="0" y="236" width="250" height="196" rx="16" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="22" y="282" font-size="26" font-weight="600" fill="#101218">Reveal</text>
+      <text x="22" y="324" font-size="17" fill="#4A505E">WWDC keynote demo</text>
+      <text x="22" y="352" font-size="17" fill="#4A505E">Developer kits for</text>
+      <text x="22" y="380" font-size="17" fill="#4A505E">student developers</text>
+    </g>
+    <g transform="translate(335 0)">
+      <circle cx="22" cy="200" r="16" fill="#4338CA"/>
+      <text x="22" y="206" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">2</text>
+      <text x="0" y="160" font-size="15" font-weight="700" letter-spacing="2" fill="#4A505E">JUL–AUG</text>
+      <rect x="0" y="236" width="250" height="196" rx="16" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="22" y="282" font-size="26" font-weight="600" fill="#101218">Seed</text>
+      <text x="22" y="324" font-size="17" fill="#4A505E">50 creator partners</text>
+      <text x="22" y="352" font-size="17" fill="#4A505E">Campus ambassadors</text>
+      <text x="22" y="380" font-size="17" fill="#4A505E">at 25 universities</text>
+    </g>
+    <g transform="translate(610 0)">
+      <circle cx="22" cy="200" r="16" fill="#4338CA"/>
+      <text x="22" y="206" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">3</text>
+      <text x="0" y="160" font-size="15" font-weight="700" letter-spacing="2" fill="#4A505E">SEP</text>
+      <rect x="0" y="236" width="250" height="196" rx="16" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="22" y="282" font-size="26" font-weight="600" fill="#101218">Launch</text>
+      <text x="22" y="324" font-size="17" fill="#4A505E">Back to School bundle</text>
+      <text x="22" y="352" font-size="17" fill="#4A505E">20-minute store demos</text>
+      <text x="22" y="380" font-size="17" fill="#4A505E">Short-form and Twitch</text>
+    </g>
+    <g transform="translate(885 0)">
+      <circle cx="22" cy="200" r="16" fill="#4338CA"/>
+      <text x="22" y="206" text-anchor="middle" font-size="15" font-weight="700" fill="#FFFFFF">4</text>
+      <text x="0" y="160" font-size="15" font-weight="700" letter-spacing="2" fill="#4A505E">OCT–DEC</text>
+      <rect x="0" y="236" width="250" height="196" rx="16" fill="#FFFFFF" stroke="#DDE0E8" stroke-width="2"/>
+      <text x="22" y="282" font-size="26" font-weight="600" fill="#101218">Sustain</text>
+      <text x="22" y="324" font-size="17" fill="#4A505E">Monthly app spotlights</text>
+      <text x="22" y="352" font-size="17" fill="#4A505E">Holiday gifting</text>
+      <text x="22" y="380" font-size="17" fill="#4A505E">Owner community</text>
+    </g>
+  </g>
+</svg>

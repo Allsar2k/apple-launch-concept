@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="t d">
+  <title id="t">Apple Vision Air — launch concept</title>
+  <desc id="d">A frosted glass panel floating over soft blue and violet glows, with the title Vision Air, the tagline "Room to think. Wherever you are." and the words launch concept by Chris Williams.</desc>
+  <defs>
+    <radialGradient id="g1" cx="0.2" cy="0.25" r="0.55"><stop offset="0" stop-color="#7DB4FF" stop-opacity="0.75"/><stop offset="1" stop-color="#7DB4FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.82" cy="0.78" r="0.55"><stop offset="0" stop-color="#B8A2FF" stop-opacity="0.8"/><stop offset="1" stop-color="#B8A2FF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.85"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.55"/></linearGradient>
+  </defs>
+  <rect width="1000" height="500" fill="#F4F5F8"/>
+  <rect width="1000" height="500" fill="url(#g1)"/>
+  <rect width="1000" height="500" fill="url(#g2)"/>
+  <!-- Back panels suggest extra screens in space -->
+  <rect x="610" y="70" width="300" height="190" rx="20" fill="#FFFFFF" fill-opacity="0.45" stroke="#FFFFFF" stroke-width="2"/>
+  <rect x="660" y="250" width="270" height="170" rx="20" fill="#FFFFFF" fill-opacity="0.35" stroke="#FFFFFF" stroke-width="2"/>
+  <rect x="80" y="110" width="600" height="280" rx="28" fill="url(#glass)" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="124" y="176" font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3" fill="#4338CA">LAUNCH CONCEPT</text>
+  <text x="120" y="262" font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="78" font-weight="600" letter-spacing="-2" fill="#101218">Vision Air</text>
+  <text x="124" y="314" font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#4A505E">Room to think. Wherever you are.</text>
+  <text x="124" y="356" font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#4A505E">Chris Williams · Product Marketing Concepts</text>
+  <!-- Device silhouette -->
+  <g transform="translate(700 300)" fill="none" stroke="#101218" stroke-width="5" stroke-linecap="round">
+    <path d="M0 40 C0 10 30 0 95 0 C160 0 190 10 190 40 C190 70 165 82 130 82 C112 82 104 66 95 66 C86 66 78 82 60 82 C25 82 0 70 0 40 Z" fill="#FFFFFF" fill-opacity="0.7"/>
+  </g>
+</svg>
